@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
-using System.Linq;
+using System.Linq;  
 
 // Задача: используя ключевые слова языка - только модификаторы и модификаторы доступа, изменить код таким образом, чтобы компиляции и запуск происходили без ошибок и предупреждений (в консоли).
 //   * Для классов BaseClass, DerivedClassA, DerivedClassB и DerivedClassImpl установить модификаторы доступа:
