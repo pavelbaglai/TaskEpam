@@ -82,5 +82,5 @@ public class Program
 
     private static string correctCaseTemplate = "Case #{0} is correct.";
     private static string incorrectCaseTemplate = "Case #{0} IS NOT CORRECT";
-    private static int correctTestCaseAmount = 0;
+    private static int correctTestCaseAmount = 0;  
 }
